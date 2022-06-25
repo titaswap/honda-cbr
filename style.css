@@ -1,0 +1,66 @@
+/* Utility */
+
+.btn-custom {
+    background-color: #e91d63;
+    color: #0B0D17;
+    padding: 10px 24px;
+    border: #e91d63;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.honda-cbr-color {
+    color: #e91d63;
+}
+
+.image-filter {
+    filter: grayscale(100%);
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.fetured-bikes small {
+    font-size: 14px;
+    color: #e91d63;
+}
+
+.fetured-bikes hr {
+    color: #e91d63;
+    width: 58px;
+}
+
+.banner-color {
+    background-color: #0B0D17;
+}
+
+.header-p {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.bike-title {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.fetured-bikes img {
+    width: 288px;
+}
+
+.clients-area img {
+    width: 149px;
+    height: 149px;
+}
+
+footer {
+    background: #0B0D17;
+    color: #e91d63;
+}
+
+.social-logo img {
+    width: 135px;
+    height: 40px;
+}
